@@ -19,5 +19,7 @@ Now you can run **src.py**
 ##### Sources
 
 Tutorial : [RealPython](https://realpython.com/courses/traditional-face-detection-python/)
+
 haarcascade_frontalface_alt.xml : OpenCV github [repo](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+
 test.jpg : Photo by Frazer Harrison/Getty Images
