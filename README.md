@@ -18,7 +18,7 @@ Now you can run **src.py**
 
 ### Output
 
-![output](https://pasteboard.co/J4E9OeA.png)
+![output](https://user-images.githubusercontent.com/47565405/79724238-6f5da900-82fc-11ea-8240-3fb39cf840ac.PNG)
 
 ##### Sources
 
