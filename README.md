@@ -16,6 +16,10 @@ pip install -r requirements.txt
 
 Now you can run **src.py**
 
+### Output
+
+![output](https://pasteboard.co/J4E9OeA.png)
+
 ##### Sources
 
 Tutorial : [RealPython](https://realpython.com/courses/traditional-face-detection-python/)
